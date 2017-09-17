@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3f258cfc-8edb-41ac-9bb1-9eceed58a5aa" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SI507F17_project1_cards.py" afterPath="$PROJECT_DIR$/SI507F17_project1_cards.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SI507F17_project1_tests.py" afterPath="$PROJECT_DIR$/SI507F17_project1_tests.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -321,6 +318,14 @@
       <option name="presentableId" value="Default" />
       <updated>1505668297846</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added 12 Test Cases and Edited README.md">
+      <created>1505690316238</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1505690316238</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -357,6 +362,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added 12 Test Cases and Edited README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 12 Test Cases and Edited README.md" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
